@@ -136,11 +136,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
 
-- Thanks to the ADuC845 community for their support and resources.
-- Special thanks to all contributors who helped in developing this library.
-
----
-
-This `README.md` provides a comprehensive guide on how to use the Soft PWM Library for the ADuC845 microcontroller. It covers installation, usage, and examples to help you get started with PWM control on your microcontroller projects.
